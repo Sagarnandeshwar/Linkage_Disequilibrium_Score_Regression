@@ -1,4 +1,4 @@
-# Linkage_Disequilibrium_Score_Regression
+# Linkage Disequilibrium Score Regression
 Implement a simple  LD score regression algorithm with Python to estimate the heritability of the phenotype.
 
 ## LD score regression
