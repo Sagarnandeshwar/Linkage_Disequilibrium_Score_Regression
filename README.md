@@ -1,6 +1,8 @@
 # Linkage Disequilibrium Score Regression
 Implement a simple  LD score regression algorithm with Python to estimate the heritability of the phenotype.
 
+## Heritability
+
 ## LD score regression
 LD score regression is a statistical method used to estimate heritability and genetic correlation between complex traits or diseases using genome-wide association study (GWAS) summary statistics. LD stands for linkage disequilibrium, which is a measure of the non-random association of alleles at different loci in a population. 
 
