@@ -9,6 +9,10 @@ The basic idea behind LD score regression is to compare the observed GWAS associ
 ## Dataset
 For a phenotype of interest, we have collected the marginal statistics $\tilde{\beta}$ for M = 4268 SNPs and the MxM LD matrix R (i.e., pairwise SNP-SNP Pearson correlation). The marginal statistics are based on N = 1000 individuals.
 
+You can find the dataset:
+
+https://drive.google.com/drive/folders/1x2wMzxQ6ZUVdbLsugJdFBFeQXRpngeTb?usp=sharing
+
 ## Assumption 
 There is no population stratification in this dataset. Both phenotype and genotype were standardized.
 
